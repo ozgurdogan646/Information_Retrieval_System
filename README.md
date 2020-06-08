@@ -22,7 +22,11 @@ Ranking algorithms :
 
 -   DFI
 
-[dfi_formula](ozgurdogan646.github.com/Information_Retrieval_System/results/dfi_formula.jpg)
+[[dfi_formula](]
+
+<https://github.com/ozgurdogan646/Information_Retrieval_System/blob/master/results/dfi_formula.jpg>
+
+[)](ozgurdogan646.github.com/Information_Retrieval_System/results/dfi_formula.jpg)
 
  
 
