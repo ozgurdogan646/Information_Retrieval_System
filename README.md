@@ -22,22 +22,27 @@ Ranking algorithms :
 
 -   DFI
 
-[[dfi_formula](]
-
-<https://github.com/ozgurdogan646/Information_Retrieval_System/blob/master/results/dfi_formula.jpg>
-
-[)](ozgurdogan646.github.com/Information_Retrieval_System/results/dfi_formula.jpg)
+![dfi_formula](https://github.com/ozgurdogan646/Information_Retrieval_System/blob/master/results/dfi_formula.jpg)
 
  
 
  
 
-Some Results
+## Some Results
 
  
 
-1.  “Imagine all the people living life in peace”
+I)  **“Imagine all the people living life in peace”**
 
+![](https://github.com/ozgurdogan646/Information_Retrieval_System/blob/master/results/query1.jpg)
+
+II)  **“Nothing can stop me, I'm all the way up”**
+
+![](https://github.com/ozgurdogan646/Information_Retrieval_System/blob/master/results/query2.jpg)
+
+III)  **“I knew you were trouble and I walked in”**
+
+![](https://github.com/ozgurdogan646/Information_Retrieval_System/blob/master/results/query3.jpg)
  
 
  
