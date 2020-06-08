@@ -22,13 +22,17 @@ Ranking algorithms :
 
 -   DFI
 
- 
-
-\#\# Some Results
+[dfi_formula](ozgurdogan646.github.com/Information_Retrieval_System/results/dfi_formula.jpg
 
  
 
-I) “Imagine all the people living life in peace”
+ 
+
+Some Results
+
+ 
+
+1.  “Imagine all the people living life in peace”
 
  
 
